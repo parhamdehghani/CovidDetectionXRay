@@ -1,2 +1,2 @@
 # CovidDetectionXRay
-Detecting Covid cases by analyzing the X-ray images of the lungs - using a pre-trained model
+Detecting Covid cases by analyzing the X-ray images of the lungs - by training a pre-trained model
